@@ -1,0 +1,150 @@
+body {
+	background-color: #FDF5E6;
+	font-family: 'Ubuntu', sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.header-body {
+	float: left;
+	background-color: #F08080;
+	margin: 0 0 2.5rem 0;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+} 
+
+.header-body a {
+	text-decoration: none;
+}
+
+.header-logo {
+	float:left;
+	margin: 2rem 1rem 2rem 5rem;
+	width: 5rem;
+}
+
+.header-title {
+	color: #fff;
+	float: left;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 2rem;
+	margin: 3rem 1rem 2rem 1rem;
+}
+.header-title:hover {
+	color: #FAFAD2;
+}
+
+.header-nav {
+	float: left;
+	margin: 1.5rem 0 1.7rem 18rem;
+	width: 50%;
+}
+
+.header-ul {
+	list-style: none;
+	text-align: center;
+}
+
+.header-ul li {
+	display: inline-block;
+	margin: 1.25rem 1rem;
+}
+
+.header-ul li a {
+	margin: 1rem 1rem;
+	color: #fff;
+}
+.header-ul li a:hover {
+	color: #FAFAD2;
+}
+
+
+hr {
+	float: left;
+	margin: 0 2%;
+	width: 96%;
+	border-style: dashed;
+}
+
+.header-content {
+	margin: 2.5rem 0 2.5rem 0;
+	padding: 0;
+	float:left;
+	text-align: center;
+}
+.header-content img{
+	width: 25%;
+}
+
+.body-content {
+	padding: 2.5rem 0% 2.5rem 12.5%;
+}
+.body-content h2 {
+	float:left;
+	font-size: 2rem;
+	line-height: 4rem;
+	margin: 1rem 0;
+	width: 87.5%;
+}
+.mini-body {
+	margin: 2.5rem 2.5% 2.5rem 2.5%;
+	width: 25%;
+	float: left;
+}
+.mini-body img {
+	width: 66%;
+}
+.mini-body h3 {
+	font-size: 1.4rem;
+	line-height: 2rem;
+}
+.mini-body p {
+	font-size: 1rem;
+	line-height: 1.5rem;
+}
+
+.footer-body {
+	margin: 2rem 0 0 0;
+	width: 100%;
+	float: left;
+}
+.footer-address h3{
+	font-size: 1.5rem;
+}
+.footer-address .address-title {
+	font-weight: bold;
+	font-size: 1.5rem;
+	margin: 1rem 0;
+}
+.footer-address a {
+	color: #333;
+	margin: 0.3rem;
+	text-decoration: none;
+}
+.footer-address a:hover, a:hover {
+	color: blue;
+}
+.footer-address i {
+	margin: 0.5rem 1rem;
+}
+.footer-address .street-adddress {
+	color: #333;
+	float: right;
+	margin: 0.3rem;
+	text-decoration: none;
+
+}
+.footer-bottom {
+	background-color: #333;
+	margin: 0;
+	padding: 0.5rem 0;
+	height: 5rem;
+}
+
+.footer-bottom h6 {
+	color: #fff;
+	font-size: 0.8rem;
+	font-weight: normal;
+}
