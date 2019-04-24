@@ -1,2 +1,2 @@
 
-Sitemap: http://exemplo.com.br/sitemap.xml
+Sitemap: https://www.siteexemplo.com.br/sitemap.xml
