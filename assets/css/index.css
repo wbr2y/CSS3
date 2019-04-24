@@ -104,6 +104,13 @@ hr {
 	font-size: 1rem;
 	line-height: 1.5rem;
 }
+.mini-body .mini-link {
+	color: purple;
+	text-decoration: none;
+}
+.mini-body .mini-link:hover {
+	color: #0000f4;
+}
 
 .footer-body {
 	margin: 2rem 0 0 0;
@@ -124,7 +131,7 @@ hr {
 	text-decoration: none;
 }
 .footer-address a:hover, a:hover {
-	color: blue;
+	color: #0000f4;
 }
 .footer-address i {
 	margin: 0.5rem 1rem;
